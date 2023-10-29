@@ -2,6 +2,7 @@
 #define FIRMWAREINFOWIDGET_H
 
 #include <QWidget>
+#include "devicedetaildialog.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class FirmwareInfoWidget; }
